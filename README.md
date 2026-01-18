@@ -1,3 +1,8 @@
+## Maintainer
+Prakhar Kedia
+
+This project was developed collaboratively. I am maintaining, documenting, and extending the AI model and backend workflows.
+
 # 🍽️ BiteWise – AI-Powered Food Recognition System
 
 **BiteWise** is a smart food recognition system that identifies food items from images using a combination of machine learning models and external APIs. Designed for health, nutrition, and lifestyle apps, BiteWise makes it easier to understand what’s on your plate — instantly.
